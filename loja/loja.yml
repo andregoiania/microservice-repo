@@ -1,7 +1,7 @@
 spring:
   datasource:
     password: Kita@2018
-    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/springcloudfornecedor
+    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/springcloudloja
     username: root
   jpa:
     hibernate:
